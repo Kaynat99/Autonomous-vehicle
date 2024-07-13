@@ -1,5 +1,5 @@
 # Autonomous-vehicle
-**MATLAB implementation of RE-RRT* algorithms**
+****MATLAB implementation of RE-RRT* algorithms****
 **What is RE-RRT**
 •	The proposed approach RE-RRT* is the extension of RRT* and focus mainly on the convergence speed and unnecessary search. We have evaluated this algorithm in terms of convergence speed and unnecessary search where the proposed approach outperforms the RRT*.
 •	RE-RRT* algorithm will initially consider the whole path from the start to the goal point and will divide it into small segment. Once the path is segmented then the vehicle will analyze the first segment for an obstacle and then it will move forward if there is no obstacle within the observation segment.
